@@ -73,7 +73,7 @@ our program should also listen for incoming data on the UART with the same baud 
 
 
 when switch 1 is pressed, and F0 is received in receiver, the observed output is 
-<img src="UART_blue" alt="0xF0, Blue LED" width="300"/>
+<img src="images_blue" alt="0xF0, Blue LED" width="300"/>
 
 
 
