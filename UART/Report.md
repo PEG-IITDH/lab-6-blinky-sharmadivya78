@@ -73,21 +73,21 @@ our program should also listen for incoming data on the UART with the same baud 
 
 
 when switch 1 is pressed, and F0 is received in receiver, the observed output is 
-![blue](blue.jpg)
+![images/blue](blue.jpg)
 
 
 
 
 
 when switch 2 is pressed, and AA is received in receiver, the observed output is 
-![green](green.jpg)
+![images/green](green.jpg)
 
 
 
 
 
 By giving disturbance to the jumper, the observed output is
-![red](red.jpg)
+![images/red](red.jpg)
 
 
 
