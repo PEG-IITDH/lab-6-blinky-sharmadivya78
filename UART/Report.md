@@ -3,7 +3,7 @@
 
 * DIVYA SHARMA [ee23mt005@iitdh.ac.in] 
 * SHWETA K TOTLA [200030053@iitdh.ac.in]
-* Group: 08 <br>
+* Group: 02
 * [11.10.2023]
 
 
